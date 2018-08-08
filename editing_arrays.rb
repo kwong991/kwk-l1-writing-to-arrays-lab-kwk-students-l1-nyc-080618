@@ -14,6 +14,6 @@ def add_colors
    add_colors = ["red" , "light_red" , "light_yellow"]
    add_colors << "green"
    add_colors << "blue"
-   puts add_colors
+   return add_colors
 end
 
